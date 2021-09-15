@@ -3,7 +3,7 @@
 🇧🇷 
 <div>
 
-- 💻 Infraestrutura e cultura DevOps.
+- 💻 Infraestrutura como código e cultura DevOps.
 - 🌱 Apaixonado em automação, tecnologia e mundo GNU/Linux.
 - 📫 Discord: Django#4345
 
