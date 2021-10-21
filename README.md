@@ -16,6 +16,7 @@
   <img align="center" alt="Django-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Django-Raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="Django-Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="Django-Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg">
  
 
 ##
