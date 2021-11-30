@@ -5,7 +5,6 @@
 
 - 💻 Infraestrutura como código e cultura DevOps.
 - 🌱 Apaixonado em automação, tecnologia e mundo GNU/Linux.
-- 📫 Discord: Django#4345
 
 </div>
 
@@ -27,4 +26,5 @@
   <a href = "mailto:3mhenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheushsmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-- ⚡ This is the way! 
+- This is the way! 
+:Discord: Django#4345
