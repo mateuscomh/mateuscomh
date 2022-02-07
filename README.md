@@ -1,10 +1,10 @@
-### Hail all! 🖖
+
 # Matheus Martins
 🇧🇷 
 <div>
 
-- 💻 Infraestrutura como código e cultura DevOps.
-- 🌱 Apaixonado em automação, tecnologia e mundo GNU/Linux.
+- 💻 Infra as Code.
+- 🌱 Automations, GNU/Linux and tecnology.
 
 </div>
 
@@ -17,13 +17,13 @@
   <img align="center" alt="Django-Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Django-Kubernets" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg">
  
-
 ##
 </div>
 
 <div>
-  <a href="https://instagram.com/mateuscomth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:3mhenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
+  <a href="https://instagram.com/mateuscomth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <br>
   <a href="https://www.linkedin.com/in/matheushsmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-- This is the way! 
