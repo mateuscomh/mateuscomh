@@ -3,8 +3,10 @@
 🇧🇷 
 <div>
 
-- 💻 Infra as Code.
-- 🌱 Automations, GNU/Linux and tecnology.
+- Infra as Code.
+- Automation
+- GNU/Linux 
+- and hacking everything
 
 </div>
 
