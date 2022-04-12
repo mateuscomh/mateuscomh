@@ -3,10 +3,9 @@
 🇧🇷 
 <div>
 
-- Infra as Code.
-- Automation
-- GNU/Linux 
-- and hacking everything
+- Infra as Code;
+- Open source;
+- and hacking everything.
 
 </div>
 
