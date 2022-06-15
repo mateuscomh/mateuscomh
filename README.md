@@ -5,7 +5,6 @@
 
 - Infra as Code;
 - Open source;
-- and hacking everything.
 
 </div>
 
