@@ -22,7 +22,7 @@
 ##
 </div>
 <div>
-  <a title="AWS Certified Solutions Architect – Associate"><img height="60" src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></a>
+  <a title="AWS Certified Solutions Architect – Associate"><img height="60" src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png"></a>
 <br>
   
 </div>
