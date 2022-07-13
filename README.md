@@ -22,14 +22,9 @@
 ##
 </div>
 <div>
-  <a title="AWS Certified Solutions Architect – Associate"><img height="60" src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png"></a>
-<br>
-  
-</div>
-<div>
   <a href = "mailto:3mhenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
-  <a href="https://www.linkedin.com/in/matheuscomth" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/matheushsmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
