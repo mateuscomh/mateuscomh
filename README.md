@@ -28,7 +28,7 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <div align="right">
 <a href="https://github.com/mateuscomh" target="_blank">
@@ -36,19 +36,13 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 </a>
 <a href="https://linkedin.com/in/matheushsmartins" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
+</a>
 <a href="https://instagram.com/mateuscomth" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/comhmateus" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
 
 
@@ -94,21 +88,18 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mateuscomh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Mateuscomh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscomh&show_icons=true&theme=default)
 
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscomh&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscomh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
 <br/>  
 
-  
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mateuscomh&&style=flat-square)  
   
 
 <br/>  
@@ -117,4 +108,4 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
