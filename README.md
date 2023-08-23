@@ -6,18 +6,13 @@
   </a>
 </p>
   
-
-
-
 ### Glad to see you here!  
 Welcome to my GitHub! A technology enthusiast and open-source advocate, I focus on infrastructure as code, Linux administration, and crafting shell scripts and programs on pythom languaage.
 My journey here involves exploring projects in my homelab while delving deeper into the realm of Kubernetes. Here, I share solutions and tutorials to streamline your automation and infrastructure initiatives. Join me on this exciting technological journey!
 
 Feel free to adjust this text as needed to reflect your preferences and goals.  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
@@ -36,12 +31,9 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
 </div>  
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="33%">
@@ -84,14 +76,6 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 
 </td></tr></table>  
 
-<br/>  
-
-
-<br />
-
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -115,14 +99,8 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 
 <br/>  
 
-
-<br/>  
-  
-
-<br/>  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=mateuscomh&&style=flat-square)  
 
 <br />
-
 ----
 
