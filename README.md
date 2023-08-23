@@ -88,11 +88,21 @@ Feel free to adjust this text as needed to reflect your preferences and goals.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![Mateuscomh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscomh&show_icons=true&theme=default)
-
-</td><td valign="top" width="50%">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscomh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscomh&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=mateuscomh&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula&title_color=03D361&bg_color=21262d"
+    />
+  </a>
+</p>
 
 </td></tr></table>  
 
