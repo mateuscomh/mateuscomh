@@ -1,32 +1,18 @@
-#### I'm Matheus Martins
-  
+### Matheus Martins
+##### DevOps/IaC
 <p align="center">
   <span>
     <img align="center" width="510" src="banners/rocket-banner.gif" />
   </a>
 </p>
+    <p>I'm a technology enthusiast and open-source advocate, focusing on infrastructure as code, <strong>Linux administration</strong>, and crafting <strong>Shell Scripts</strong> and programs in the <strong>Python</strong> language.</p>
+    <details closed>
+    <summary>About me 👈</summary>
+
+---
 <p>I'm a technology enthusiast and open-source advocate, focusing on infrastructure as code, <strong>Linux administration</strong>, and crafting <strong>Shell Scripts</strong> and programs in the <strong>Python</strong> language.</p>
 My journey here involves exploring projects in my homelab while delving deeper into the realm of Kubernetes. Here, I share solutions and tutorials to streamline your automation and infrastructure initiatives. Join me on this exciting technological journey!
   
-<br/>  
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-<div align="right">
-<a href="https://github.com/mateuscomh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matheushsmartins" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mateuscomth" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-</div>  
-</td></tr></table>  
-
-<br/>  
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="33%">
@@ -69,7 +55,7 @@ My journey here involves exploring projects in my homelab while delving deeper i
 
 </td></tr></table>  
 
-## Github Stats  
+Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
@@ -89,11 +75,27 @@ My journey here involves exploring projects in my homelab while delving deeper i
 </p>
 
 </td></tr></table>  
+</details>
+<br/>  
+  
+<table><tr><td valign="top" width="100%">
+
+<div align="right">
+<a href="https://github.com/mateuscomh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/matheushsmartins" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/mateuscomth" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+</div>  
+</td></tr></table>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mateuscomh&&style=flat-square)  
 
-<br />
+![Profile views counter](https://komarev.com/ghpvc/?username=mateuscomh&&style=flat-square)  
 ----
 
