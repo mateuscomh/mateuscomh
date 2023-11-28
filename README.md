@@ -1,16 +1,12 @@
-## Hello there 👋, I'm Matheus Martins from Brazil  
+#### I'm Matheus Martins
   
 <p align="center">
   <span>
     <img align="center" width="510" src="banners/rocket-banner.gif" />
   </a>
 </p>
-  
-### Glad to see you here!  
-Welcome to my GitHub! A technology enthusiast and open-source advocate, I focus on infrastructure as code, Linux administration, and crafting shell scripts and programs on pythom languaage.
+<p>I'm a technology enthusiast and open-source advocate, focusing on infrastructure as code, <strong>Linux administration</strong>, and crafting <strong>Shell Scripts</strong> and programs in the <strong>Python</strong> language.</p>
 My journey here involves exploring projects in my homelab while delving deeper into the realm of Kubernetes. Here, I share solutions and tutorials to streamline your automation and infrastructure initiatives. Join me on this exciting technological journey!
-
-Feel free to adjust this text as needed to reflect your preferences and goals.  
   
 <br/>  
 
