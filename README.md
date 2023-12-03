@@ -5,9 +5,15 @@
     <img align="center" width="510" src="banners/rocket-banner.gif" />
   </a>
 </p>
-    <p>I'm a technology enthusiast and open-source advocate, focusing on infrastructure as code, <strong>Linux administration</strong>, and crafting <strong>Shell Scripts</strong> and programs in the <strong>Python</strong> language.</p>
+<ul>
+        <li><strong> 🏗️ Infrastructure as Code (IaC):</strong></li>
+        <li><strong> 🐧 Linux Administration:</strong> </li>
+        <li><strong> 🚀 Pipelines/Automation:</strong></li>
+        <li><strong> ☁️ Cloud Technologies:</strong></li>
+        <li><strong> 🐳 Containerization and Orchestration:</strong></li>
+</ul>
     <details closed>
-    <summary>About me 👈</summary>
+    <summary><strong>About me 👈</summary></strong>
 
 ---
 <p>I'm a technology enthusiast and open-source advocate, focusing on infrastructure as code, <strong>Linux administration</strong>, and crafting <strong>Shell Scripts</strong> and programs in the <strong>Python</strong> language.</p>
