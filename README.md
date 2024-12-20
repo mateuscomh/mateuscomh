@@ -1,10 +1,5 @@
 ### Matheus Martins
 ##### DevOps/IaC
-<p align="center">
-  <span>
-    <img align="center" width="510" src="banners/rocket-banner.gif" />
-  </a>
-</p>
 <ul>
         <li><strong> 🏗️ Infrastructure as Code (IaC):</strong></li>
         <li><strong> 🐧 Linux Administration:</strong> </li>
